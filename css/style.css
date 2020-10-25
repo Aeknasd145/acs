@@ -1,0 +1,31 @@
+/*
+Template Name: ApphicalTeam Coming Soon
+Theme URL: https://abbaserenkilic.com/temalarim/atcs
+Description: Landing Page
+Author: AEK
+Author URL: https://abbaserenkilic.com
+Version: 1.0
+Tags: Landing Page, HTML5, CSS3, Bootstrap, Jquery, Coming Soon Landing page
+*/
+
+/* General Styles */
+body {
+    color: white;
+    background-color: #000;
+}
+.background-overlay {
+	background: url("../img//bg.png") no-repeat center center;
+    background-size: cover;
+    opacity: 0.5;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+/* LOGO Styles */
+.logo > img {
+	width: 250px;
+	height: 250px;
+}
